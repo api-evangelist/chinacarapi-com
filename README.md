@@ -64,5 +64,110 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-chinacarapi-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://chinacarapi.com/
+ChinaCarAPI provides developers with comprehensive data from China's used‑car marketplaces Dongchedi and Che168. The API delivers listings, prices, inspection reports, export eligibility, and detailed vehicle information in both English and original Chinese. Data is refreshed twice daily, with change‑feed support for incremental updates. Plans include a 5‑day trial and tiered pricing for starters, businesses, and scale users, with cryptocurrency payment options.
+
+**Areas:** Automotive · Data · API · China · UsedCars
+
+## chinacarapi-com on APIs.io
+
+Everything profiled for chinacarapi-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/chinacarapi-com/](https://apis.io/providers/chinacarapi-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [ChinaCarAPI](https://apis.io/apis/chinacarapi-com/china-car-api/) — ChinaCarAPI provides used‑car listings from Dongchedi and Che168.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Chinacarapi Com Authentication](https://apis.io/security/chinacarapi-com/chinacarapi-com-authentication/)
+- [Chinacarapi Com Domain Security](https://apis.io/security/chinacarapi-com/chinacarapi-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Chinacarapi Com Scopes](https://apis.io/scopes/chinacarapi-com/chinacarapi-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Chinacarapi Com Plans Pricing](https://apis.io/plans/chinacarapi-com/chinacarapi-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Chinacarapi Com Rate Limits](https://apis.io/rate-limits/chinacarapi-com/chinacarapi-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://chinacarapi.com/)
+- [Documentation](https://chinacarapi.com/documentation)
+- [Getting started](https://chinacarapi.com/start-china-import)
+- [API reference](https://chinacarapi.com/documentation)
+- [Pricing](https://chinacarapi.com/#pricing)
+- [Support](https://t.me/innqtech)
+- [GitHub](https://github.com/ThatMojo)
+
+## API Evangelist rating
+
+**Kin Score 42.1** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 30.5 |
+| Contract governance | 30.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 68.3 |
+| Access clarity | 38.9 |
+
+**Agent readiness 43.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 26.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/chinacarapi-com/](https://apis.io/providers/chinacarapi-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for chinacarapi-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/chinacarapi-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
